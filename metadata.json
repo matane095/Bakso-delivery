@@ -1,0 +1,6 @@
+{
+  "name": "Bakso Delivery",
+  "description": "Sistem pemesanan bakso lezat dan layanan pengantaran langsung ke rumah Anda.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
